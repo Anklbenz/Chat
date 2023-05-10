@@ -379,6 +379,7 @@
 "Assets/GPT/Chat/UserMessage.cs"
 "Assets/GPT/GptConversation.cs"
 "Assets/Scenes/Message.cs"
+"Assets/Scenes/MessageBoard.cs"
 -langversion:9.0
 
 /deterministic
